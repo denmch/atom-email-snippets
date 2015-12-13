@@ -1,6 +1,6 @@
 {
   "name": "atom-email-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "HTML snippets for creating responsive emails.",
   "activationCommands": {
     "atom-workspace": "atom-email-snippets:toggle"
@@ -11,7 +11,9 @@
     "url": "https://github.com/gecugamo/atom-email-snippets/issues"
   },
   "license": "MIT",
-  "engines": {"atom": ">=0.50.0"},
+  "engines": {
+    "atom": ">=0.50.0"
+  },
   "readme": "HTML snippets for creating responsive emails.\n",
   "readmeFilename": "README.md",
   "dependencies": {}
