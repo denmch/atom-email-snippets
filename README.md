@@ -1,6 +1,6 @@
 # atom-email-snippets package
 
-Snippets for responsive email creation.
+Snippets for responsive email creation. Created from <a href="https://litmus.com/blog/the-ultimate-guide-to-using-snippets-in-email-design" target="_blank">this post</a> by <a href="https://litmus.com/blog/author/kevin" target="_blank">Kevin Mandeville</a>. 
 
 <h2>Snippets Available</h2>
 <ul>
